@@ -1,0 +1,8 @@
+c:\users\vishva\documents\visual studio 2013\Projects\helloWorld2\helloWorld2\bin\Debug\helloWorld2.exe.config
+C:\Users\Vishva\Documents\Visual Studio 2013\Projects\helloWorld2\helloWorld2\bin\Debug\helloWorld2.exe
+C:\Users\Vishva\Documents\Visual Studio 2013\Projects\helloWorld2\helloWorld2\bin\Debug\helloWorld2.pdb
+C:\Users\Vishva\Documents\Visual Studio 2013\Projects\helloWorld2\helloWorld2\obj\Debug\helloWorld2.csprojResolveAssemblyReference.cache
+C:\Users\Vishva\Documents\Visual Studio 2013\Projects\helloWorld2\helloWorld2\obj\Debug\helloWorld2.Properties.Resources.resources
+C:\Users\Vishva\Documents\Visual Studio 2013\Projects\helloWorld2\helloWorld2\obj\Debug\helloWorld2.csproj.GenerateResource.Cache
+C:\Users\Vishva\Documents\Visual Studio 2013\Projects\helloWorld2\helloWorld2\obj\Debug\helloWorld2.exe
+C:\Users\Vishva\Documents\Visual Studio 2013\Projects\helloWorld2\helloWorld2\obj\Debug\helloWorld2.pdb
